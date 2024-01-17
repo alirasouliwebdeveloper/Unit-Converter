@@ -10,4 +10,4 @@ npm install
 
 ## License
 
-[AliRasouli] (https://alirasouli.info)
+[Ali Rasouli](https://alirasouli.info)
